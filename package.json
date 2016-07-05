@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/share/share-primus",
   "dependencies": {
-    "primus": "3.0.2"
+    "primus": "4.0.5"
   },
   "devDependencies": {
     "share": "^0.7.27",
